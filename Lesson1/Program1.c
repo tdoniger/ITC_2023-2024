@@ -6,6 +6,6 @@ line remark*/
 
 int main(){
 	cout<<"Bad News! Summer is over!!\n\n";
-  cout<<“Now we can learn \”C\”!!!\n”;
-  return 0;
+        cout<<"Now we can learn \"C\"!!!\n”;
+  	return 0;
 }
